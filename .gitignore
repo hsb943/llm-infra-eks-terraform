@@ -1,0 +1,63 @@
+# =========================
+# Terraform core
+# =========================
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+
+# =========================
+# Terraform variables
+# =========================
+terraform.tfvars
+terraform.tfvars.json
+*.auto.tfvars
+*.auto.tfvars.json
+
+# =========================
+# Terraform plans
+# =========================
+*.tfplan
+*.out
+
+# =========================
+# Terraform lock files
+# =========================
+.terraform.lock.hcl
+
+# =========================
+# Sensitive files
+# =========================
+*.pem
+*.key
+*.crt
+*.env
+
+# =========================
+# AWS / Cloud credentials
+# =========================
+.aws/
+credentials
+config
+
+# =========================
+# Logs
+# =========================
+logs/
+*.log
+
+# =========================
+# OS / Editor noise
+# =========================
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# =========================
+# Archives
+# =========================
+*.zip
+*.tar.gz
