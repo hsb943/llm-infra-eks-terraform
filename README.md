@@ -80,13 +80,13 @@ vllm-qwen-kubernetes/
 
 5.4 No mock components are used. All manifests correspond to running workloads.
 
-Port Forwarding
+-Port Forwarding
 <img width="1003" height="199" alt="1" src="https://github.com/user-attachments/assets/1dacd0cf-e8c2-4516-8289-2696fb8cc714" />
 
-Asking LLm what problem does k8 solve
+-Asking LLm what problem does k8 solve
 <img width="1558" height="160" alt="2" src="https://github.com/user-attachments/assets/e7ca7b3c-c1da-4324-a3a7-e9bebfee0d59" />
 
-Cluster Resources 
+-Cluster Resources 
 <img width="669" height="228" alt="3" src="https://github.com/user-attachments/assets/07cece29-50a4-4acc-8217-4b6909bbe6f5" />
 
 
